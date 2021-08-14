@@ -25,6 +25,10 @@ First we create the data set to be trained the load the data. Then we train it t
 **Business Scope**</br>
 Can be implemented in areas such as schools, banks, malls, offices, hospitals, restaurants, airports, railway station etc. where people  go in their everyday life.
 
+**Demo Video Link**</br>
+https://www.youtube.com/watch?v=NWOteL_NsF8
+
+
 
 **Team members**</br>
 1)Akshara Ganeshram</br>
