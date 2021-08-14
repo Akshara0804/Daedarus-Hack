@@ -2,7 +2,7 @@
 **COVID-19 Face mask detection system**
 
 **Abstract**</br>
-In today’s times wearing a face mask has become compulsory to protect ourselves from COVID-19. We tried to develop a face mask detection system integrated with a CCTV surveillance camera which identifies a human face and detects whether the person is wearing the mask properly, wearing the mask improperly or not wearing a mask and displays the message on the screen and sends a notification to the administrator if he is improperly wearing the mask or not wearing the mask. 
+In today’s times wearing a face mask has become compulsory to protect ourselves from COVID-19. We tried to develop a face mask detection system integrated with a CCTV surveillance camera which identifies a human face and detects whether the person is wearing the mask properly, wearing the mask improperly or not wearing a mask and displays the message on the screen and sends a notification to the administrator if he is improperly wearing the mask or not wearing the mask.This solution can be implemented in many areas such as schools, offices, banks, hospitals etc.A CCTV camera integrated with this system can be kept at the entrance and this camera can identify human faces and detect if they are wearing the mask properly or not and send a notification to them in case they are not wearing the mask or wearing the mask improperly. This will help in improving the safety of people and slowing down the spread of virus. 
 
 **Novelty**</br>
 1)Can be utilised to keep a watch on people entering a particular place like banks, schools, malls etc without employing human work force and exposing them to infection.</br>
