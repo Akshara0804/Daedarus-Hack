@@ -5,18 +5,18 @@
 In today’s times wearing a face mask has become compulsory to protect ourselves from COVID-19. We tried to develop a face mask detection system integrated with a CCTV surveillance camera which identifies a human face and detects whether the person is wearing the mask properly, wearing the mask improperly or not wearing a mask and displays the message on the screen and sends a notification to the administrator if he is improperly wearing the mask or not wearing the mask. 
 
 **Novelty**</br>
-1)Can be utilised to keep a watch on people entering a particular place like banks, schools, malls etc without employing human work force and exposing them to infection.
+1)Can be utilised to keep a watch on people entering a particular place like banks, schools, malls etc without employing human work force and exposing them to infection.</br>
 2)The output of the face detection system is integrated with an application programming interface to send the message to the administrator.
 
 **Technology Stack**</br>
-Platform: Jupyter notebook
-Image processing and management tech stack:
-       a) Open CV
-       b) Numpy
-       c) Matplotlib
-       d) Scikit image
-API: Sinch
-Programming language: Python
+Platform: Jupyter notebook</br>
+Image processing and management tech stack:</br>
+       a) Open CV</br>
+       b) Numpy</br>
+       c) Matplotlib</br>
+       d) Scikit image</br>
+API: Sinch</br>
+Programming language: Python</br>
 
 **Implementation**</br>
 The machine learning algorithm used in this application is support vector machine algorithm and for face detection Voila Jones object detection framework(Haar-cascade image classifier) is used.
