@@ -1,7 +1,7 @@
 # Daedarus-Hack
 **COVID-19 Face mask detection system**
 
-**Abstract**
+**Abstract**</br>
 In today’s times wearing a face mask has become compulsory to protect ourselves from COVID-19. We tried to develop a face mask detection system integrated with a CCTV surveillance camera which identifies a human face and detects whether the person is wearing the mask properly, wearing the mask improperly or not wearing a mask and displays the message on the screen and sends a notification to the administrator if he is improperly wearing the mask or not wearing the mask. 
 
 **Novelty**
